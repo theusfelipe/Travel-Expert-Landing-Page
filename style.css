@@ -53,11 +53,22 @@ a {
     
 }
 
+a:hover {
+    border-radius: 80px;
+    background-color: #DB2777;
+    transition: 1s;
+
+}
 
 
 .btn-travel {
     border-radius: 80px;
     background-color: #DB2777;
     color: white;
+    transition: 1s;
+}
 
+
+.btn-travel:hover {
+    background-color:hotpink;
 }
