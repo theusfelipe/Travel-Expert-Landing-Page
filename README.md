@@ -4,11 +4,11 @@
 
 
 <p align="center">
-<a href="">Deploy do Projeto</a>
+<a href="https://travel-expert-landing-page.vercel.app">Deploy do Projeto</a>
 <p>
 
 ## Tecnologias
 
-- HTML e CSS
+- HTML e CSS 
 - Figma
 - Vercel
